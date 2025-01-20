@@ -26,9 +26,7 @@ import { RouterLink } from 'vue-router';
                 id: key,
                 ...response.data[key]
             }));
-            //console.log(state.jobs[0].id);
         } catch (error) {
-            //console.error('Error fetching jobs', error);
             state.error = 'No jobs were found';
         } finally {
             state.isLoading = false;
