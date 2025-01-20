@@ -1,6 +1,6 @@
 # Vue - Find a job
 ## 🛠 Features
-- Basic storage for adding/editing/eeleting jobs 
+- Basic storage for adding/editing/deleting jobs 
 
 ## 🚀 Demo
 [Live Demo](https://mellow-rolypoly-ffae5f.netlify.app/)
